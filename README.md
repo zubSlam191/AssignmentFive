@@ -16,3 +16,5 @@ The Domain model shows that email accounts are differentiated by their addresses
 Each individual email received by a specific account has a title, description and date recerived.
 
 Each email account has different functionality in how the email received can be managed and sorted by date, email title or by sender identity.
+
+![Domain Model Confirmation Proof](/domain_confirmation_proof.png)
